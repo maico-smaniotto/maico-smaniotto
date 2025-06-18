@@ -24,5 +24,3 @@ Java (Spring Boot), Flutter e Firebase — aplicando conceitos modernos de arqui
 
 🤝 Valorizo o trabalho colaborativo, a comunicação clara e a busca por soluções eficientes.  
 Tenho interesse especial por **backends escaláveis**, **arquitetura moderna** e **aplicações bem estruturadas em nuvem**.
-
----
