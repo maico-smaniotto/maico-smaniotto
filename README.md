@@ -1,7 +1,7 @@
 ## Maico Smaniotto
 
 <p>
-  <a href="https://www.linkedin.com/in/maico-smaniotto" target="_blank">
+  <a href="https://www.linkedin.com/in/maicosmaniotto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:seuemail@exemplo.com">
