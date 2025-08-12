@@ -12,12 +12,9 @@
 Desenvolvedor de Software, apaixonado por código e movido pelo constante desejo de evoluir pessoal e profissionalmente. Tenho como princípios a aplicação de boas práticas de desenvolvimento, a produção de código limpo e a construção de soluções sustentáveis. Atualmente, estou focado em aprofundar meus conhecimentos em **arquitetura de software**, com o objetivo de projetar sistemas bem estruturados, robustos, performáticos e de fácil manutenção.
 
 💼 **Experiência com:**  
-Delphi/Object Pascal, back-end, PL/SQL, Oracle, Firebird e PostgreSQL
+Delphi/Object Pascal, Oracle, PL/SQL, Firebird, PostgreSQL, integração de sistemas
 
 🛠️ **Conhecimento em:**  
-Java, C#, Python, arquitetura limpa, integração de sistemas
-
-🚀 **Projetos atuais com:**  
-Java (Spring Boot), Flutter e Firebase aplicando conceitos modernos de arquitetura e desenvolvimento
+Java (Spring Boot), C# (ASP.NET Core), Python, Flutter, Firebase, Docker, arquitetura limpa
 
 📚 Estou sempre em busca de aprendizado contínuo, explorando novas linguagens, frameworks e abordagens de arquitetura para me manter atualizado
